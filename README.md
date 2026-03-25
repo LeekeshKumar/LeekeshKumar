@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:leekeshpagoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-leekeshpagoti@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/leekesh-kumar-pagoti-289928250/"><img src="https://img.shields.io/badge/LinkedIn-Leekesh%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/leekesh/"><img src="https://img.shields.io/badge/LinkedIn-Leekesh%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/LeekeshKumar"><img src="https://img.shields.io/badge/GitHub-LeekeshKumar-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Location-Srikakulam%2C%20AP-green?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
