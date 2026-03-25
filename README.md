@@ -1,4 +1,4 @@
-<h1 align="center">Leekesh Kumar Pagoti</h1>
+<h1 align="center">Hi, I'm Leekesh Kumar Pagoti 👋</h1>
 <h4 align="center">VLSI Verification Engineer &nbsp;|&nbsp; UVM &nbsp;·&nbsp; SystemVerilog &nbsp;·&nbsp; AXI3 &nbsp;·&nbsp; QuestaSim</h4>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ### 👨‍💻 About Me
 
