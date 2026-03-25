@@ -1,4 +1,4 @@
-<h1 align="center">Leekesh Kumar Pagoti</h1>
+<h1 align="center">HI, I'm Leekesh Kumar Pagoti</h1>
 <h3 align="center">VLSI Verification Engineer — UVM · SystemVerilog · AXI3</h3>
 
 <p align="center">
