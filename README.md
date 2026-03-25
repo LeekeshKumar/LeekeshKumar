@@ -3,8 +3,8 @@
 
 📍 Srikakulam, Andhra Pradesh &nbsp;|&nbsp; 📧 leekeshpagoti@gmail.com &nbsp;|&nbsp; 📞 +91 9963992246
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leekesh-kumar-pagoti-289928250/)
-[![GitHub](https://img.shields.io/badge/GitHub-Leekesh123-181717?style=flat&logo=github)](https://github.com/Leekesh123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leekesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-Leekesh-181717?style=flat&logo=github)](https://github.com/LeekeshKumar)
 
 ---
 
