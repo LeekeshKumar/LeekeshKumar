@@ -1,58 +1,104 @@
-<h1 align="center">Hi, I'm Leekesh Kumar Pagoti</h1>
-<h3 align="center">Front-End VLSI Verification Engineer | UVM | SystemVerilog | Verilog</h3>
+<h1 align="center">Leekesh Kumar Pagoti</h1>
+<h3 align="center">VLSI Verification Engineer — UVM · SystemVerilog · AXI3</h3>
+
 <p align="center">
-Trained VLSI Verification fresher with hands-on experience in building UVM-based verification environments and validating RTL designs.  
-Focused on developing clean testbenches, debugging simulation issues, and ensuring functional correctness of digital designs.
+📍 Srikakulam, Andhra Pradesh &nbsp;|&nbsp; 📧 leekeshpagoti@gmail.com &nbsp;|&nbsp; 📞 +91 9963992246
 </p>
-<img align="right" alt="Verification" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="center">
+<a href="https://www.linkedin.com/in/leekesh-kumar-pagoti-289928250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/></a>
+&nbsp;
+<a href="https://github.com/LeekeshKumar"><img src="https://img.shields.io/badge/GitHub-LeekeshKumar-181717?style=flat&logo=github"/></a>
+</p>
+
 ---
-### 👨‍💻 About Me
-- 🎓 B.Tech in Electronics and Communication Engineering  
-- 🔬 Trained in **Front-End VLSI Design & Verification (VLSI GURU)**  
-- 🧪 Worked on RTL verification using **UVM, SystemVerilog, Verilog**  
-- 🧩 Experience verifying designs such as **Memory Module** and **Asynchronous FIFO**  
-- 🎯 Actively seeking **entry-level VLSI Verification Engineer** opportunities  
+
+## About
+
+<img align="right" alt="Verification" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+Trained VLSI Verification professional with hands-on experience building **UVM-based verification environments** for industry-standard protocols.
+Skilled in constrained-random testing, functional coverage closure, and SVA-based assertion checking.
+
 ---
-### 🛠️ Skills & Tools
-#### 🔹 Verification
-- SystemVerilog  
-- UVM  
-- Functional Coverage  
-- Assertions  
-- Testbench Architecture  
-#### 🔹 Design
-- Digital Design  
-- RTL Coding – Verilog  
-#### 🔹 Tools
-- QuestaSim  
-- ModelSim  
-- GVim  
-#### 🔹 Scripting
-- Python (Basic automation)
+
+## Experience
+
+**Design & Verification Engineer Intern — VLSIGURU, Bangalore**
+`Jul 2025 – Mar 2026`
+
+- Architected full UVM testbenches for **AXI3 protocol** and memory designs from scratch
+- Achieved **100% functional and code coverage** on all assigned verification tasks
+- Developed test plans covering constrained-random, directed, and corner-case scenarios
+
 ---
-### 📂 Projects
-📌 **Memory Module – RTL Design & Verification**  
-- Verified read/write operations, reset behavior, boundary checks, and random scenarios using SystemVerilog and functional coverage.
-📌 **Asynchronous FIFO – RTL Design & Verification**  
-- Verified multi-clock FIFO operation including corner cases, clock-ratio stress testing, gray code synchronization, and assertions.
+
+## Projects
+
+### AMBA AXI3 Protocol Verification
+`UVM · SystemVerilog · QuestaSim`
+
+> Complete UVM verification environment for the AMBA AXI3 protocol
+
+| What was verified | Details |
+|---|---|
+| Burst Types | FIXED, INCR, WRAP |
+| Advanced Scenarios | Out-of-Order, Interleaving, Overlapping transactions |
+| Scoreboard | Multi-ID data integrity checking across read/write channels |
+| Coverage | Functional coverage models — 100% closure |
+
 ---
-### 👨‍💻 GitHub
-All projects and verification code are available here:  
-🔗 https://github.com/Leekesh123
+
+### Memory Module — RTL Design & Verification
+`UVM · SystemVerilog · QuestaSim`
+
+> UVM testbench for an 8-bit × 32-depth synchronous SRAM with valid/ready handshaking
+
+| Component | Description |
+|---|---|
+| UVM Hierarchy | Transaction · Sequencer · Driver · Monitor · Scoreboard · Coverage · Agent · Env |
+| Scoreboard | Internal reference model — compares every read against written data |
+| Coverage | Covergroup on read/write operations and full address range |
+| Assertions | SVA bound to DUT — checks for X/Z on valid transactions |
+
+🔗 [View Code](https://github.com/Leekesh123)
+
 ---
-### 📫 Contact
-📧 Email: **leekeshpagoti@gmail.com**  
-🔗 LinkedIn:https://www.linkedin.com/in/leekesh/
+
+### FIFO Buffer — RTL Design & Verification
+`Verilog · SystemVerilog · SVA`
+
+> Parameterized synchronous and asynchronous FIFO with configurable depth and width
+
+| What was verified | Details |
+|---|---|
+| Functional Tests | Full, Empty, Overflow, Underflow conditions |
+| Async FIFO | Gray code synchronization, multi-clock stress testing |
+| Self-Checking | Scoreboard + SVA assertions for data integrity |
+| Coverage | 100% functional coverage closure |
+
 ---
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/leekesh-kumar-pagoti-289928250/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/pagotileekeshkumar/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/pagotileekd2z4" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
+
+## Technical Skills
+
+| Area | Skills |
+|---|---|
+| Verification | UVM, SystemVerilog, Functional Coverage, SVA Assertions |
+| Protocols | AMBA AXI3 — INCR, WRAP, FIXED, Out-of-Order, Interleaving, Overlapping |
+| RTL Design | Verilog, FSM, FIFO, Sequential & Combinational Logic |
+| Tools | QuestaSim, ModelSim, GVim |
+
+---
+
+## Education
+
+**B.Tech — Electronics & Communication Engineering**
+Centurion University of Technology and Management | `2021 – 2025` | CGPA: **8.3**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeekeshKumar&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeekeshKumar&layout=compact&hide_border=true&title_color=0077B5" height="150"/>
 </p>
