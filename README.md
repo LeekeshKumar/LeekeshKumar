@@ -10,6 +10,8 @@
 
 ## About
 
+<img align="right" alt="Verification" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 Trained VLSI Verification professional with hands-on experience building **UVM-based verification environments** for industry-standard protocols.
 Skilled in constrained-random testing, functional coverage closure, and SVA-based assertion checking.
 
@@ -91,7 +93,7 @@ Centurion University of Technology and Management | `2021 – 2025` | CGPA: **8.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leekesh123&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeekeshKumar&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leekesh123&layout=compact&hide_border=true&title_color=0077B5" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeekeshKumar&layout=compact&hide_border=true&title_color=0077B5" height="150"/>
 </p>
