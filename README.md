@@ -56,5 +56,3 @@ All projects and verification code are available here:
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
 </p>
-
-this is my readme file in github
