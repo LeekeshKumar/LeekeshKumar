@@ -1,10 +1,15 @@
-# Leekesh Kumar Pagoti
-### VLSI Verification Engineer — UVM · SystemVerilog · AXI3
+<h1 align="center">Leekesh Kumar Pagoti</h1>
+<h3 align="center">VLSI Verification Engineer — UVM · SystemVerilog · AXI3</h3>
 
+<p align="center">
 📍 Srikakulam, Andhra Pradesh &nbsp;|&nbsp; 📧 leekeshpagoti@gmail.com &nbsp;|&nbsp; 📞 +91 9963992246
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leekesh/)
-[![GitHub](https://img.shields.io/badge/GitHub-Leekesh-181717?style=flat&logo=github)](https://github.com/LeekeshKumar)
+<p align="center">
+<a href="https://www.linkedin.com/in/leekesh-kumar-pagoti-289928250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/></a>
+&nbsp;
+<a href="https://github.com/LeekeshKumar"><img src="https://img.shields.io/badge/GitHub-LeekeshKumar-181717?style=flat&logo=github"/></a>
+</p>
 
 ---
 
