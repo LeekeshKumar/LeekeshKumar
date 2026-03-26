@@ -49,7 +49,7 @@ Complete UVM verification environment for the AMBA AXI3 protocol — the most co
 | **Scoreboard** | Multi-ID data integrity checking across read/write channels |
 | **Coverage** | Functional coverage models — **100% closure** |
 
-[![Repo](https://img.shields.io/badge/View%20Repository-AXI3--Verification-0077B5?style=for-the-badge&logo=github)](https://github.com/LeekeshKumar)
+[![Repo](https://github.com/LeekeshKumar/AMBA-AXI3-Protocol-Verification.git)](https://github.com/LeekeshKumar)
 
 ---
 
