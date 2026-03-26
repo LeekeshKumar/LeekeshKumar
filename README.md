@@ -2,7 +2,7 @@
 <h4 align="center">VLSI Verification Engineer &nbsp;|&nbsp; UVM &nbsp;·&nbsp; SystemVerilog &nbsp;·&nbsp; AXI3 &nbsp;·&nbsp; QuestaSim</h4>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#b7dbd2d2dcd2c4dfc7d6d0d8c3def7d0dad6dedb99d4d8da"><img src="https://img.shields.io/badge/Gmail-leekeshpagoti@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:leekeshpagoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-leekeshpagoti@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/leekesh/"><img src="https://img.shields.io/badge/LinkedIn-Leekesh%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/LeekeshKumar"><img src="https://img.shields.io/badge/GitHub-LeekeshKumar-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Location-Srikakulam%2C%20AP-green?style=flat-square&logo=googlemaps&logoColor=white"/>
@@ -49,7 +49,7 @@ Complete UVM verification environment for the AMBA AXI3 protocol — the most co
 | **Scoreboard** | Multi-ID data integrity checking across read/write channels |
 | **Coverage** | Functional coverage models — **100% closure** |
 
-[![Repo](https://github.com/LeekeshKumar/AMBA-AXI3-Protocol-Verification.git)](https://github.com/LeekeshKumar)
+[![Repo](https://img.shields.io/badge/View%20Repository-AMBA--AXI3--Protocol--Verification-0077B5?style=for-the-badge&logo=github)](https://github.com/LeekeshKumar/AMBA-AXI3-Protocol-Verification)
 
 ---
 
@@ -117,4 +117,5 @@ Parameterized synchronous and asynchronous FIFO with configurable depth and widt
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeekeshKumar&label=Profile
+  <img src="https://komarev.com/ghpvc/?username=LeekeshKumar&label=Profile%20Views&color=0077B5&style=flat-square"/>
+</p>
